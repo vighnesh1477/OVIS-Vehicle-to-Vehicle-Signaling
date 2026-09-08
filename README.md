@@ -4,9 +4,8 @@ Real-time vision-based overtaking assistance system using vehicle perception and
 
 ---
 
-## ⚠️ The Problem
-https://github.com/user-attachments/assets/85b7e796-d003-4009-a8a1-b2f0418552a4
-### 🎥 Problem Scenario
+⚠️ The Problem
+🎥 Problem Scenario
 
 <p align="center"> <video src="https://github.com/user-attachments/assets/85b7e796-d003-4009-a8a1-b2f0418552a4" width="700" controls> </video> </p>
 
