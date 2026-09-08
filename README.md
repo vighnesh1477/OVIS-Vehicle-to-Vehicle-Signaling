@@ -5,20 +5,13 @@ Real-time vision-based overtaking assistance system using vehicle perception and
 ---
 
 ## ⚠️ The Problem
-
-Overtaking on roads can become risky when the driver has limited visibility of the road ahead or cannot reliably determine whether an overtaking maneuver is safe.
-
-In such situations, the absence of clear information from the vehicle ahead can make it difficult for a following driver to decide whether to **overtake, wait, or avoid overtaking**.
-
+https://github.com/user-attachments/assets/85b7e796-d003-4009-a8a1-b2f0418552a4
 ### 🎥 Problem Scenario
 
-<p align="center">
-  <video src="./a_Create_a_photorealis%20(2).mp4" controls width="700">
-  Your browser does not support the video tag.
-</video>
-</p>
+<p align="center"> <video src="https://github.com/user-attachments/assets/85b7e796-d003-4009-a8a1-b2f0418552a4" width="700" controls> </video> </p>
 
 The above scenario demonstrates the challenge that motivates the development of OVIS — providing a clear optical indication from the vehicle ahead to assist the following driver during overtaking decisions.
+
 
 ---
 
