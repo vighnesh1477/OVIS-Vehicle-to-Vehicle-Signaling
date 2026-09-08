@@ -10,12 +10,6 @@ Overtaking on roads can become risky when the driver has limited visibility of t
 
 In such situations, the absence of clear information from the vehicle ahead can make it difficult for a following driver to decide whether to **overtake, wait, or avoid overtaking**.
 
-## ⚠️ The Problem
-
-Overtaking on roads can become risky when the driver has limited visibility of the road ahead or cannot reliably determine whether an overtaking maneuver is safe.
-
-In such situations, the absence of clear information from the vehicle ahead can make it difficult for a following driver to decide whether to **overtake, wait, or avoid overtaking**.
-
 ### 🎥 Problem Scenario
 
 https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/a_Create_a_photorealis%20(2).mp4
