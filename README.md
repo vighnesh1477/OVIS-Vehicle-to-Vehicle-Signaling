@@ -6,10 +6,16 @@ Real-time vision-based overtaking assistance system using vehicle perception and
 
 ## 🎥 Project Demonstration
 
+## 🎥 Project Demonstration
+
 <p align="center">
   <a href="https://youtu.be/kccB6SFx-20">
-    <b>▶️ WATCH OVIS PROJECT DEMONSTRATION</b>
+    <img src="https://img.youtube.com/vi/kccB6SFx-20/maxresdefault.jpg" width="700">
   </a>
+</p>
+
+<p align="center">
+  <b>▶️ Click the image to watch the complete OVIS demonstration</b>
 </p>
 
 ---
