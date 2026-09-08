@@ -6,8 +6,6 @@ Real-time vision-based overtaking assistance system using vehicle perception and
 
 ## 🎥 Project Demonstration
 
-## 🎥 Project Demonstration
-
 <p align="center">
   <a href="https://youtu.be/kccB6SFx-20">
     <img src="https://img.youtube.com/vi/kccB6SFx-20/maxresdefault.jpg" width="700">
