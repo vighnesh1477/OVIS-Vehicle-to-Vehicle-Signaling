@@ -7,7 +7,7 @@ Real-time vision-based overtaking assistance system using vehicle perception and
 ## 🎥 Project Demonstration
 
 <p align="center">
-  <a href="YOUR_VIDEO_LINK_HERE">
+  <a href="https://youtu.be/kccB6SFx-20">
     <b>▶️ WATCH OVIS PROJECT DEMONSTRATION</b>
   </a>
 </p>
@@ -102,8 +102,8 @@ Processing-speed comparison between the evaluated YOLO-series models and the pro
 
 **Vighnesh Poojary**
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** [Vighneshpoojary49@gmail.com](mailto:Vighneshpoojary49@gmail.com)
 
-💼 **LinkedIn:** YOUR_LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/vighnesh-poojary-006b65329/
 
-💻 **GitHub:** YOUR_GITHUB
+💻 **GitHub:** https://github.com/vighnesh1477
