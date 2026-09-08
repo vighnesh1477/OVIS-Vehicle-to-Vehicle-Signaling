@@ -7,7 +7,8 @@ Real-time vision-based overtaking assistance system using vehicle perception and
 ⚠️ The Problem
 🎥 Problem Scenario
 
-<p align="center"> <video src="https://github.com/user-attachments/assets/85b7e796-d003-4009-a8a1-b2f0418552a4" width="700" controls> </video> </p>
+
+<p align="center"> <video src="https://github.com/user-attachments/assets/35e90cc8-25b3-43d6-aa58-6ebdddec99f8" width="700" controls> </video> </p>
 
 The above scenario demonstrates the challenge that motivates the development of OVIS — providing a clear optical indication from the vehicle ahead to assist the following driver during overtaking decisions.
 
