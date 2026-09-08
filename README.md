@@ -12,7 +12,11 @@ In such situations, the absence of clear information from the vehicle ahead can 
 
 ### 🎥 Problem Scenario
 
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/a_Create_a_photorealis%20(2).mp4
+<p align="center">
+  <video src="./a_Create_a_photorealis%20(2).mp4" controls width="700">
+  Your browser does not support the video tag.
+</video>
+</p>
 
 The above scenario demonstrates the challenge that motivates the development of OVIS — providing a clear optical indication from the vehicle ahead to assist the following driver during overtaking decisions.
 
